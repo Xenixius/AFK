@@ -32,7 +32,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 300,
+      "repeat-delay": 100,
 
       "messages": [
         "Tuân thủ luật của Server !!!",
