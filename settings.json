@@ -19,28 +19,30 @@
   },
 
   "utils": {
-  "auto-auth": {
-    "enabled": true,
-    "password": "123456"
-  },
+    "auto-auth": {
+      "enabled": true,
+      "password": "123456"
+    },
 
-  "anti-afk": {
-    "enabled": true,
-    "sneak": true
-  },
+    "anti-afk": {
+      "enabled": true,
+      "sneak": true
+    },
 
-  "chat-messages": {
-    "enabled": true,
-    "repeat": true,
-    "repeat-delay": 100,
-    "messages": [
-      "Tuân thủ luật của Server !!!",
-      "Không phá hoại/cướp/scam đồ của người khác, không gây tổn hại đến Server.",
-      "Trường hợp bị phá hoại/cướp/scam có thể báo lại và sẽ Ban vĩnh viễn !!!"
-    ]
-  },
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 100,
 
-  "chat-log": true,
-  "auto-reconnect": true,
-  "auto-recconect-delay": 5000
+      "messages": [
+        "Tuân thủ luật của Server !!!",
+        "Không phá hoại/cướp/scam đồ của người khác, không gây tổn hại đến Server.",
+        "Trường hợp bị phá hoại/cướp/scam có thể báo lại và sẽ Ban vĩnh viễn !!!"
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 5000
+  }
 }
