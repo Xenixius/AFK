@@ -19,6 +19,11 @@
   },
 
   "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": ""
+    },
+
     "anti-afk": {
       "enabled": true,
       "sneak": true
