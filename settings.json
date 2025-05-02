@@ -21,8 +21,9 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "123456"
-    },
+      "register-command": "/register Zh58Bi7gv Zh58Bi7gv",
+      "login-command": "/login Zh58Bi7gv"
+  },
 
     "anti-afk": {
       "enabled": true,
