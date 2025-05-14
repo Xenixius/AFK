@@ -47,7 +47,7 @@
     "movement": {
       "enabled": true,
       "type": "random", 
-      "interval": 3000,
+      "interval": 5,
       "range": 5, 
       "jump": false 
     }
